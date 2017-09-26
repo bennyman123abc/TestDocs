@@ -1,2 +1,2 @@
 # Table of Contents
-[Main Page](/readme.md)
+1. [Main Page](/README.md)
